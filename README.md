@@ -97,38 +97,32 @@
 ---
 ## 💻 Check Out My Repos
 
-<!-- <table>
+ <table>
   <tr>
     <td>
       <a href="https://github.com/jeevithswarup/html-css-practice-projects">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight" />
       </a>
     </td>
     <td>
       <a href="https://github.com/jeevithswarup/django-student-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight" />
-      </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/jeevithswarup/school-attendance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight" />
       </a>
     </td>
     <td>
       <a href="https://github.com/jeevithswarup/java-basics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/jeevithswarup/django-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight" />
       </a>
     </td>
-    <td></td> <!-- Empty to keep table consistent -->
+    <td></td> 
   </tr>
 </table> -->
 

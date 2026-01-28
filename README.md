@@ -97,7 +97,7 @@
 ---
 ## 💻 Check Out My Repos
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <a href="https://github.com/jeevithswarup/html-css-practice-projects">
@@ -130,7 +130,7 @@
     </td>
     <td></td> <!-- Empty to keep table consistent -->
   </tr>
-</table>
+</table> -->
 
 
 ⭐ *“Code is not just instructions, it's a solution to real-world problems.”*

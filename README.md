@@ -72,11 +72,18 @@ Aspiring backend web developer | Django &amp; DRF | Java | DSA
 
 ## 📊 GitHub Stats
 
-![Jeevith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&theme=tokyonight" alt="Jeevith's GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 ## 🚀 Current Focus
 

@@ -62,9 +62,9 @@ Aspiring backend web developer | Django &amp; DRF | Java | DSA
 
 ## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:jeevithswaruptuta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/jeevith-swarup-tuta-284607345)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/jeevithswarup)
 
 ---
 

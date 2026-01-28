@@ -83,6 +83,19 @@
 </td>
 </tr>
 </table>
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&theme=tokyonight" alt="Jeevith's GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&theme=tokyonight" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
 
 ## 🚀 Current Focus
 

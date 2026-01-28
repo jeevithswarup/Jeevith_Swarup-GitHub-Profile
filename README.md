@@ -1,5 +1,4 @@
 # Jeevith_Swarup-GitHub-Profile
-Aspiring backend web developer | Django &amp; DRF | Java | DSA
 # Hi 👋, I'm Jeevith Swarup
 
 🎓 3rd Year Computer Science Engineering Student  
@@ -70,7 +69,6 @@ Aspiring backend web developer | Django &amp; DRF | Java | DSA
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 

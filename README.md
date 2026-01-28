@@ -95,5 +95,13 @@
 - Backend project architecture
 
 ---
+## 💻 Check Out My Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight)](https://github.com/jeevithswarup/tayyabadev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight)](https://github.com/jeevithswarup/GithubFinderProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight)](https://github.com/jeevithswarup/leetcode-solutions-two-pointers-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight)](https://github.com/jeevithswarup/one-liner-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight)](https://github.com/jeevithswarup/weather-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=Blind-75-DSA&theme=tokyonight)](https://github.com/jeevithswarup/Blind-75-DSA)
 
 ⭐ *“Code is not just instructions, it's a solution to real-world problems.”*

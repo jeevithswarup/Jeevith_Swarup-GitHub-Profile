@@ -100,26 +100,23 @@
 <table>
 <tr>
 <td>
-[![Repo: tayyabadev](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight)](https://github.com/jeevithswarup/tayyabadev)
+[![Repo: tayyabadev](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=tayyabadev&theme=tokyonight)](https://github.com/jeevithswarup/html-css-practice-projects)
 </td>
 <td>
-[![Repo: GithubFinderProject](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight)](https://github.com/jeevithswarup/GithubFinderProject)
-</td>
-</tr>
-<tr>
-<td>
-[![Repo: leetcode-solutions-two-pointers-](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight)](https://github.com/jeevithswarup/leetcode-solutions-two-pointers-)
-</td>
-<td>
-[![Repo: one-liner-Project](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight)](https://github.com/jeevithswarup/one-liner-Project)
+[![Repo: GithubFinderProject](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=GithubFinderProject&theme=tokyonight)](https://github.com/jeevithswarup/django-student-management-system)
 </td>
 </tr>
 <tr>
 <td>
-[![Repo: weather-app](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight)](https://github.com/jeevithswarup/weather-app)
+[![Repo: leetcode-solutions-two-pointers-](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=leetcode-solutions-two-pointers-&theme=tokyonight)](https://github.com/jeevithswarup/school-attendance)
 </td>
 <td>
-[![Repo: Blind-75-DSA](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=Blind-75-DSA&theme=tokyonight)](https://github.com/jeevithswarup/Blind-75-DSA)
+[![Repo: one-liner-Project](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=one-liner-Project&theme=tokyonight)](https://github.com/jeevithswarup/java-basics)
+</td>
+</tr>
+<tr>
+<td>
+[![Repo: weather-app](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=weather-app&theme=tokyonight)](https://github.com/jeevithswarup/django-portfolio)
 </td>
 </tr>
 </table>

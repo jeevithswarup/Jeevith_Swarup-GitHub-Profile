@@ -92,7 +92,6 @@
 - Database optimization
 - System design basics
 - Backend project architecture
-- 
+  
 ⭐ *“Code is not just instructions, it's a solution to real-world problems.”*
-
 ## 💻 Check Out My Repos⬇️

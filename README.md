@@ -56,7 +56,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>
-<img src="https://www.reddit.com/r/Python/comments/v4l8em/pycharm_updated_logo/" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/3840px-PyCharm_Icon.svg.png" width="40"/>
   
 </td>
 </tr>

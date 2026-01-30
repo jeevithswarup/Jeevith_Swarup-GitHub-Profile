@@ -9,10 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Learning and building backend applications using **Python, Django & DRF**
-- 🌦️ Working on a **Weather API project** to understand API design
-- 🧠 Practicing **DSA with Java** for problem-solving and placements
-- 🔐 Exploring **web security fundamentals**
+- 💻 Backend-focused developer working with **Python, Django & DRF**
+- 🧠 Strong interest in **Data Structures & Algorithms using Java**
+- 🧠 Practicing **DSA primarily on PrepInsta**, with occasional problem-solving on **LeetCode & HackerRank**
+- 🔐 Curious about **Web Application Security**
+- 🧩 Enjoy designing **clean APIs and backend logic**
 - 🎯 Aspiring **Backend Engineer**
 
 ---

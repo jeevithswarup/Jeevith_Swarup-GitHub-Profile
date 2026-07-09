@@ -1,74 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:0d1530,100:0a0e1a&height=200&section=header&text=JEEVITH%20SWARUP&fontSize=64&fontColor=E8EAF0&fontAlignY=45&desc=Backend%20Developer%20%E2%80%94%20Python%20%C2%B7%20Django%20%C2%B7%20REST%20APIs&descAlignY=68&descColor=8892B0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=JEEVITH%20SWARUP&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI%20Engineer%20•%20LLMs%20•%20AI%20Agents%20•%20System%20Design&descAlignY=60&animation=fadeIn"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Final-Year+Computer+Science+Engineering+Student;Building+AI+Applications+with+LLMs+and+AI+Agents;Exploring+System+Design+and+Distributed+Systems;Python+%7C+FastAPI+%7C+Django+%7C+RAG+%7C+MCP;Always+Learning.+Always+Building."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=8892B0&center=true&vCenter=true&width=650&lines=Backend+Engineer+specializing+in+Python+%26+Django;Building+secure%2C+scalable+REST+APIs+from+scratch;3rd+Year+Computer+Science+Engineering+Student;Open+to+Backend+%26+Full-Stack+Opportunities" alt="Typing SVG"/>
+<br>
 
-<br/><br/>
+![](https://komarev.com/ghpvc/?username=jeevithswarup&style=for-the-badge&color=2563eb)
 
-![Views](https://komarev.com/ghpvc/?username=jeevithswarup&style=flat-square&color=0d1530&label=Profile+Views&labelColor=0a0e1a)
-&nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/jeevithswarup?style=flat-square&logo=github&logoColor=8892B0&label=Followers&color=0d1530&labelColor=0a0e1a)](https://github.com/jeevithswarup)
-&nbsp;&nbsp;
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-0a0e1a?style=flat-square&logo=checkmarx&logoColor=64FFDA)
+[![GitHub followers](https://img.shields.io/github/followers/jeevithswarup?style=for-the-badge&logo=github)](https://github.com/jeevithswarup)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://django-portfolio-yd0b.onrender.com)
 
 </div>
-
-<br/>
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=180&height=28&lines=///+ABOUT+ME" alt="section"/>
-</div>
+# 👋 Hello, I'm Jeevith Swarup
 
-<br/>
+I'm a **Final-Year Computer Science Engineering Student** passionate about building intelligent software using **Artificial Intelligence, Large Language Models, AI Agents, and scalable system architectures**.
 
-<table>
-<tr>
-<td valign="top" width="58%">
+I enjoy solving real-world problems by combining software engineering principles with modern AI technologies. My interests span from designing backend systems to developing autonomous AI applications that leverage LLMs, Retrieval-Augmented Generation (RAG), and Agentic workflows.
 
-**Jeevith Swarup** is a backend-focused software developer pursuing B.E. in Computer Science Engineering (3rd Year), passionate about engineering clean, secure, and production-grade systems using Python and the Django ecosystem.
+Currently, I'm focused on deepening my understanding of **System Design**, **Distributed Systems**, and **AI Engineering** while building production-ready projects and contributing to open-source.
 
-<br/>
+---
 
-🎓 &nbsp;**Education** — B.E. Computer Science Engineering, Year 3
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India 🇮🇳
+# 🚀 About Me
 
-💼 &nbsp;**Role** — Backend Developer
+```yaml
+Name: Jeevith Swarup
 
-🔧 &nbsp;**Core Stack** — Python · Django · DRF · PostgreSQL
+Education:
+  Degree: B.E. Computer Science Engineering
+  Status: Final-Year Student
 
-🔐 &nbsp;**Interest** — Web Security · JWT Auth · API Design
+Current Focus:
+  - Artificial Intelligence
+  - Large Language Models (LLMs)
+  - AI Agents
+  - Retrieval-Augmented Generation (RAG)
+  - Model Context Protocol (MCP)
+  - System Design
+  - Distributed Systems
 
-🧠 &nbsp;**DSA** — Java · LeetCode · Problem Solving
+Programming Languages:
+  - Python
+  - Java
+  - JavaScript
+  - SQL
+  - C
 
-🎯 &nbsp;**Goal** — Backend / Full-Stack Engineer at scale
+Frameworks:
+  - FastAPI
+  - Django
+  - Django REST Framework
 
-✅ &nbsp;**Status** — Open to Internships & Full-time Roles
+Databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
 
-</td>
-<td valign="top" width="42%" align="center">
+Tools:
+  - Git
+  - GitHub
+  - Docker
+  - Postman
+  - VS Code
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevithswarup&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&text_color=8892B0&langs_count=6&card_width=280" width="280"/>
+Currently Learning:
+  - Multi-Agent Systems
+  - AI Workflows
+  - Cloud Deployment
+  - Kubernetes
+  - Advanced System Design
 
-<br/><br/>
-
+Goal:
+  Build scalable AI products that solve meaningful real-world problems.
 ```
-┌─────────────────────────┐
-│  Available for          │
-│  · Internships          │
-│  · Full-time Roles      │
-│  · Freelance Projects   │
-│  · Open Source Collab   │
-└─────────────────────────┘
-```
 
-</td>
-</tr>
-</table>
+---
+
+# 💡 What I'm Working On
+
+- 🤖 AI Agents powered by LLMs
+- 🧠 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI-based AI Applications
+- 🏗️ Scalable System Design
+- 🔍 AI-powered Cyber Risk Scoring
+- 📚 Research in Generative AI
+
+---
+
+# 🌱 Currently Learning
+
+- Multi-Agent Architectures
+- Model Context Protocol (MCP)
+- Advanced Prompt Engineering
+- Distributed Systems
+- Design Patterns
+- Event-Driven Architecture
+- Kubernetes
+- AWS Fundamentals
 
 ---
 ## My favorite tools and technologies ⚙️

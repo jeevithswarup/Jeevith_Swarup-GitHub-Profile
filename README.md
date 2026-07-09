@@ -223,31 +223,171 @@ Goal:
 
 <br/>
 
+# 🚀 Featured Projects
+
 <table>
-<tr><td width="22%" align="right"><strong>Product</strong></td><td>Full-stack personalized travel planning web application</td></tr>
-<tr><td align="right"><strong>Type</strong></td><td>Hackathon Project — Built end-to-end</td></tr>
-<tr><td align="right"><strong>Stack</strong></td><td>Django · Django REST Framework · PostgreSQL · Bootstrap 5 · Chart.js · JWT Auth</td></tr>
-<tr><td align="right"><strong>Features</strong></td><td>Multi-city itinerary builder · Real-time budget tracking · Public trip sharing · Activity discovery · Packing checklist</td></tr>
-<tr><td align="right"><strong>Architecture</strong></td><td>Role-based access control (Traveler + Admin) · Unique shareable trip URLs · REST API backend</td></tr>
+<tr>
+<td width="50%">
+
+### 🤖 Application-Level Cyber Risk Scoring
+
+AI-powered security analysis platform that evaluates cyber risks across web applications using static analysis, security best practices, and machine learning techniques.
+
+**Highlights**
+
+- AI-assisted vulnerability assessment
+- Risk scoring engine
+- Automated security recommendations
+- Interactive dashboard
+- Research-driven architecture
+
+**Tech Stack**
+
+`Python` `FastAPI` `LLMs` `Machine Learning` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI Chatbot with Ollama
+
+A production-ready chatbot built with FastAPI and Ollama featuring real-time streaming responses and REST APIs.
+
+**Highlights**
+
+- Streaming responses
+- REST API
+- Swagger Documentation
+- Local LLM Integration
+- Modular Architecture
+
+**Tech Stack**
+
+`Python` `FastAPI` `Ollama` `LLMs`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✈️ Travique
+
+An intelligent travel planning platform built during a hackathon.
+
+**Highlights**
+
+- JWT Authentication
+- Trip Planner
+- Budget Management
+- Public Trip Sharing
+- Responsive UI
+
+**Tech Stack**
+
+`Django` `DRF` `PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+### 🎓 EduTrack School Management System
+
+Modern school management platform with secure APIs and role-based authentication.
+
+**Highlights**
+
+- Student Management
+- Attendance
+- JWT Authentication
+- REST APIs
+- PostgreSQL
+
+**Tech Stack**
+
+`Django` `DRF` `PostgreSQL`
+
+</td>
+</tr>
 </table>
 
+---
+
+# 🏆 Achievements
+
+🥇 Solved **200+ Data Structures & Algorithms** problems.
+
+🏅 **TCS CodeVita Season 13** – Global Rank **9658**
+
+📜 NPTEL Certified in **Cryptography & Cyber Security**
+
+🛡️ Palo Alto Networks **Cybersecurity Foundation**
+
+💻 Active contributor to AI and backend engineering projects.
+
+---
+
+# 📚 Currently Exploring
+
+```text
+🤖 Artificial Intelligence
+████████████████████ 100%
+
+🧠 Large Language Models
+██████████████████░░ 90%
+
+⚡ AI Agents
+█████████████████░░░ 85%
+
+🔍 Retrieval-Augmented Generation
+████████████████░░░░ 80%
+
+🏗️ System Design
+██████████████░░░░░░ 70%
+
+☁️ Cloud Computing
+██████████░░░░░░░░░░ 50%
+
+⚙️ Kubernetes
+████████░░░░░░░░░░░░ 40%
+```
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-grade AI applications
+- 🤖 Master AI Agents & Multi-Agent Systems
+- 🏗️ Learn scalable System Design
+- ☁️ Deploy AI systems on cloud platforms
+- 📖 Publish technical blogs and research
+- 🌍 Contribute to impactful Open Source projects
+
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=240&height=28&lines=///+CURRENT+LEARNING+PATH" alt="section"/>
-</div>
 
-<br/>
+<a href="https://django-portfolio-yd0b.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome"/>
+</a>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/jeevith-swarup-tuta-284607345/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-| Skill | Progress | Level |
-|---|---|---|
-| Python & Django | `██████████████████░░` | Advanced |
-| Django REST Framework | `████████████████░░░░` | Advanced |
-| JWT Auth & Web Security | `██████████████░░░░░░` | Intermediate |
-| PostgreSQL & Optimization | `████████████░░░░░░░░` | Intermediate |
-| System Design | `██████████░░░░░░░░░░` | Learning |
-| Data Structures & Algorithms | `███████████░░░░░░░░░` | Intermediate |
-| Backend Architecture | `████████░░░░░░░░░░░░` | Learning |
+<a href="mailto:jeevithswaruptuta@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/jeevithswarup">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Jeevith_1722/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </div>
 
@@ -255,26 +395,22 @@ Goal:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=200&height=28&lines=///+LET'S+CONNECT" alt="section"/>
+### 💭 Developer Philosophy
 
-<br/><br/>
+> *"The best way to predict the future is to build it."*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=safari&logoColor=E8EAF0&label=🌐&labelColor=0d1530)](https://django-portfolio-yd0b.onrender.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=E8EAF0&labelColor=0d1530)](https://www.linkedin.com/in/jeevith-swarup-tuta-284607345/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0a0e1a?style=for-the-badge&logo=gmail&logoColor=E8EAF0&labelColor=0d1530)](mailto:jeevithswaruptuta@gmail.com)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-0a0e1a?style=for-the-badge&logo=leetcode&logoColor=E8EAF0&labelColor=0d1530)](https://leetcode.com/u/Jeevith_1722/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=E8EAF0&labelColor=0d1530)](https://github.com/jeevithswarup)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<br/><br/>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
+---
 
-<br/><br/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=120&section=footer"/>
 
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+**Thanks for visiting my profile! 🚀**
 
 </div>

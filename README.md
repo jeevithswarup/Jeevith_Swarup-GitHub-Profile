@@ -6,13 +6,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=jeevithswarup&style=for-the-badge&color=2563eb)
-
-[![GitHub followers](https://img.shields.io/github/followers/jeevithswarup?style=for-the-badge&logo=github)](https://github.com/jeevithswarup)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://django-portfolio-yd0b.onrender.com)
 
 </div>
 

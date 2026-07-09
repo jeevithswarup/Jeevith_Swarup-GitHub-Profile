@@ -186,41 +186,47 @@ Goal:
   </tr>
 </table>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=200&height=28&lines=///+GITHUB+METRICS" alt="section"/>
-</div>
 
-<br/>
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0&include_all_commits=true&count_private=true&ring_color=1a3a6e" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithswarup&hide_border=true&background=0a0e1a&ring=1a3a6e&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=8892B0&dates=3a4a6e&sideNums=E8EAF0&currStreakNum=E8EAF0" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeevithswarup&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithswarup&bg_color=0a0e1a&color=8892B0&line=1a3a6e&point=64FFDA&area=true&area_color=0d1530&hide_border=true&custom_title=Contribution+Activity" width="94%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jeevithswarup&theme=darkhub&no-frame=true&column=6&margin-w=8&no-bg=true" width="94%"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevithswarup&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=13&pause=99999&color=64FFDA&center=true&width=220&height=28&lines=///+FEATURED+PROJECT" alt="section"/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeevithswarup&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-[![Travique](https://github-readme-stats.vercel.app/api/pin/?username=jeevithswarup&repo=Travique&hide_border=true&bg_color=0a0e1a&title_color=64FFDA&icon_color=64FFDA&text_color=8892B0)](https://github.com/jeevithswarup/Travique)
+<img src="https://github-profile-trophy.vercel.app/?username=jeevithswarup&theme=tokyonight&no-frame=true&column=4&margin-w=12"/>
 
 </div>
+
+---
+
+# 📊 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Jeevith_1722/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/jeevithswarup)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeevith-swarup-tuta-284607345)
+
+</div>
+
 
 <br/>
 
